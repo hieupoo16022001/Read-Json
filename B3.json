@@ -1,0 +1,15 @@
+{
+  "menu":{
+    "header": "adobe SVG Viewer",
+    "item": {"action": "Open",
+    "id": "Open",
+      "open",
+    },
+
+
+
+
+
+
+  }
+}
